@@ -28,7 +28,7 @@ modules:
             value: 21.2.2
             description: pip version control
           - name: BK_APIGW_MANAGER_URL_TMPL
-            value: bk apigw manager url template
+            value: http://{api_name}.apigw.o.woa.com
             description: pip version control
           - name: BK_APIGW_MANAGER_MAINTAINERS
             value: esternchen
